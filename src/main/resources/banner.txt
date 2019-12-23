@@ -1,0 +1,21 @@
+   SSSSSSSSSSSSSSS                   lllllll   iiii
+ SS:::::::::::::::S                  l:::::l  i::::i
+S:::::SSSSSS::::::S                  l:::::l   iiii
+S:::::S     SSSSSSS                  l:::::l
+S:::::S      yyyyyyy           yyyyyyyl::::l iiiiiii     eeeeeeeeeeee
+S:::::S       y:::::y         y:::::y l::::l i:::::i   ee::::::::::::ee
+ S::::SSSS     y:::::y       y:::::y  l::::l  i::::i  e::::::eeeee:::::ee
+  SS::::::SSSSS y:::::y     y:::::y   l::::l  i::::i e::::::e     e:::::e
+    SSS::::::::SSy:::::y   y:::::y    l::::l  i::::i e:::::::eeeee::::::e
+       SSSSSS::::Sy:::::y y:::::y     l::::l  i::::i e:::::::::::::::::e
+            S:::::Sy:::::y:::::y      l::::l  i::::i e::::::eeeeeeeeeee
+            S:::::S y:::::::::y       l::::l  i::::i e:::::::e
+SSSSSSS     S:::::S  y:::::::y       l::::::li::::::ie::::::::e
+S::::::SSSSSS:::::S   y:::::y        l::::::li::::::i e::::::::eeeeeeee
+S:::::::::::::::SS   y:::::y         l::::::li::::::i  ee:::::::::::::e
+ SSSSSSSSSSSSSSS    y:::::y          lllllllliiiiiiii    eeeeeeeeeeeeee
+                   y:::::y
+                  y:::::y
+                 y:::::y
+                y:::::y
+               yyyyyyy
